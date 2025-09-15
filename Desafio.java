@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Desafio {
+public class Main {
 
     public static void opcaoVoltar(){
         int voltar = 0;
